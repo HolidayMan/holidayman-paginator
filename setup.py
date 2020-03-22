@@ -4,7 +4,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name='holidayman-paginator',
+    name='let45fc-paginator',
     version="0.1",
     author="let45fc",
     author_email="let45fc@gmail.com",
